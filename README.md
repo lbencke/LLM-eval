@@ -9,7 +9,7 @@ If you use our work please cite us.
 @inproceedings{lbencke2024LLM4eval,
   title={Fault Detection in Transmission Lines: a Denial Constraint Approach},
   author={Bencke, Luciana and Paula, Felipe S. F.  and dos Santos, Bruno G. T. and Moreira, Viviane P. },
-  booktitle={Anais do Simp{\'o}sio Brasileiro de Bancos de Dados},
+  booktitle={Anais do XXXIX Simp{\'o}sio Brasileiro de Bancos de Dados},
   year={2024},
   organization={SBC}
 }
