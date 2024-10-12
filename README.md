@@ -7,7 +7,7 @@ If you use our work please cite us.
 
 ```bibtex
 @inproceedings{lbencke2024LLM4eval,
-  title={Fault Detection in Transmission Lines: a Denial Constraint Approach},
+  title={Can we trust LLMs as relevance judges?},
   author={Bencke, Luciana and Paula, Felipe S. F.  and dos Santos, Bruno G. T. and Moreira, Viviane P. },
   booktitle={Anais do XXXIX Simp{\'o}sio Brasileiro de Bancos de Dados},
   year={2024},
