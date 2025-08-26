@@ -21,9 +21,10 @@ def main():
     cli_gpt = OpenAI(api_key='chave openai')
     query = "do que é feita uma presa de narval"
     passage = "Alguns pesquisadores notaram os muitos túbulos e nervos que viajam através das presas do narval. Eles também notaram que a superfície de uma presa é muito sensível a estímulos. Os pesquisadores acreditam que as estruturas são usadas como órgãos dos sentidos."
-    instruction = p.gpt_folha
+    instruction = p.gpt_chave
     prompt = gpt_prompt(instruction,query,passage)
     response = gpt_answer(cli_gpt, prompt, 500, 'gpt-4o')
     print(response)
+
 
 
